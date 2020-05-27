@@ -6,3 +6,4 @@
 * [VMware](./Technologies/vmware.md)
 * [Linux](./Technologies/linux.md)
   * [General](./Technologies/Linux/general.md)
+* [AWS](./Technologies/AWS.md)
