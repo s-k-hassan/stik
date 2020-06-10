@@ -1,4 +1,4 @@
-# stik
+# STIK
 
 Stuff That I Know
 
